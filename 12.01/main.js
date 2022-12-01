@@ -14,7 +14,6 @@ Example output: "I'M 😱 ALMOST 😱 OUT 😱 OF 😱 COFFEE!"
 
 const panic = str => str.toUpperCase().split(" ").join(" 😱 ") + "!";
 
-
 // Test your function
 console.log(panic("I'm almost out of coffee")); 
 console.log(panic("winter is coming"))
