@@ -13,8 +13,3 @@ Daily coding challenges from December 1st to 24th.
 ## 🎄 Optimizations:
 
 Upon peer review and recommendations, I will make changes to better enhance code functionality and readability.
-
-
-## 🎁 Lessons Learned: 
-
--In progress-
